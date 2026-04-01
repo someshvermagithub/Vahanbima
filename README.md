@@ -87,10 +87,11 @@ Build a high-performance and interpretable ML model to predict CLTV.
 
 ## 📁 Project Structure
 
-├── data/
-├── notebooks/
-├── src/
-├── submission/
+├── data/train.csv,test.csv
+
+├── notebooks/eda.ipynb
+├── src/main.ipynb
+├── submission/submission.csv
 ├── README.md
 
 
