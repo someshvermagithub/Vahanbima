@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Yes-brightgreen)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Modeling-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
+
 # 🚀 VahanBima CLTV Prediction Pipeline
 
 ## 📌 Overview
