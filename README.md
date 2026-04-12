@@ -120,7 +120,7 @@ VahanBima-CLTV-Prediction/
 ## ▶️ How to Run
 
 ```bash
-git clone <https://github.com/someshvermagithub/Vahanbima.git>
+git clone https://github.com/someshvermagithub/Vahanbima.git
 cd Vahanbima
 
 python -m venv venv
